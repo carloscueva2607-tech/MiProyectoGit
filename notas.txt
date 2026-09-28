@@ -1,0 +1,2 @@
+Estoy aprendiendo a usar Git.
+Git me permite guardar el historial de mis cambios.
